@@ -1,1 +1,1 @@
-# estudies
+# web development studies
