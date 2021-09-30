@@ -1,0 +1,42 @@
+.date {
+    color: #008080;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title-post {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post {
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+}
+
+article {
+
+    background-color: rgb(204, 204, 204);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+hr {
+    background-color: rgb(204, 204, 204);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+img {
+    margin-bottom: 10px;
+}
