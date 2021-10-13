@@ -1,0 +1,178 @@
+a:link,
+a:active,
+a:hover,
+a:visited {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+p {
+    line-height: 1.25em;
+    text-align: justify;
+    color: #444444;
+    font-family: sans-serif;
+}
+
+.site-largura {
+    overflow: auto;
+    width: 900px;
+    margin: 0 auto;
+
+}
+
+.imagem-escrita img {
+    height: 550px;
+    margin-bottom: 60px;
+}
+
+.imagem-escrita h1 {
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 100px;
+    width: 1530px;
+    line-height: 300px;
+}
+
+.imagem-escrita h2 {
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 100px;
+    width: 1530px;
+    line-height: 500px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+nav {
+    min-width: 900px;
+    padding: .5rem 0;
+    background: white;
+    color: white;
+    font: 80% sans-serif;
+}
+
+.menu-topo-esquerda,
+.menu-topo-direita {
+    width: 50%;
+    float: left;
+}
+
+.menu-topo-esquerda img {
+    width: 20%;
+}
+
+
+.menu-topo-direita {
+    text-align: right;
+    word-spacing: 0.5em;
+    color: #346373;
+    padding-top: 2em;
+}
+
+h1 {
+    padding: 1rem 0;
+    font: 1em sans-serif;
+    text-align: center;
+}
+
+h2 {
+    padding: 1rem 0;
+    font-size: 2em;
+    text-align: center;
+    font-family: Pacifico, cursive;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
+
+
+
+img {
+    width: 100%;
+}
+
+
+
+main {
+    overflow: auto;
+    margin-bottom: 4em;
+}
+
+.imagem-esquerda {
+    width: 100%;
+}
+
+.imagem-direita {
+    width: 100%;
+}
+
+.texto-direita p {
+    font-size: 15px;
+}
+
+.texto-esquerda p {
+    font-size: 15px;
+}
+
+.coluna-direita {
+    float: left;
+    width: 50%;
+    padding: 0 5px;
+}
+
+.coluna-esquerda {
+    float: left;
+    width: 50%;
+    padding-right: 3em;
+}
+
+
+.coluna-direita img {
+    padding-top: 6em;
+    width: 90%;
+    margin-top: 3em;
+}
+
+.coluna-esquerda img {
+    padding-bottom: 6em;
+    width: 90%;
+}
+
+
+footer {
+    min-width: 900px;
+    background: #d6d3c6;
+    padding: 0.5rem;
+    text-align: center;
+    color: black;
+    font: 80% sans-serif;
+    line-height: 1.25em;
+}
+
+h4 {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.fone {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.email {
+    margin-bottom: 15px;
+}
+
+.texto-img {
+    text-align: center;
+}
