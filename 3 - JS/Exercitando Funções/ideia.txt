@@ -1,8 +1,0 @@
-criar simulador de partida de futebol
-
-1- add nome de dois times
-
-2- marcar os gols dos times (cada gol incrementa 5 min de jogo)
-
-3- cronometro manual do tempo (quando chegar aos 90min acabar e imprimir resultado)
-incremetando de 5 em 5 min
