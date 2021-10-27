@@ -20,10 +20,10 @@ console.log(removedCars);
 //signifca dividir
 //extrai uma parte do array sem alterar o array original
 
-let playersName = ['Luiz', 'Joao', 'Carla', 'Bruna', 'Ze', 'Maria'];
+let playersName = ['Luiz', 'Joao', 'Carla', 'Bruna', 'Maria', 'Ze'];
 
 console.log(playersName);
 
-let femalePlayers = playersName.slice(2, 4);
+let femalePlayers = playersName.slice(2, 5);
 
 console.log(femalePlayers);
