@@ -15,8 +15,8 @@ carro.acelerar = function(aceleracao){
     this.velocidade += aceleracao
 }
 
-console.log(carro)
+console.log(carro); 
 
-carro.acelerar(50)
+carro.acelerar(50);
 
-console.log(carro)
+console.log(carro);
