@@ -1,4 +1,4 @@
-//Escreva uma funcao que recebe um numero qualquer de numeroscomo argumentos e retorne a media aritimetica entre eles
+//Escreva uma funcao que recebe um numero qualquer de numeros como argumentos e retorne a media aritimetica entre eles
 
 function mediaAlunos(notas) {
   n = notas.length
