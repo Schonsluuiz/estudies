@@ -19,5 +19,5 @@ function translate(str) {
   
 }
 
-console.log(translate(test1));
-console.log(translate(test2));
+console.log(translate(test1))
+console.log(translate(test2))
