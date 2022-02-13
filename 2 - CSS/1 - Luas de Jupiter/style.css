@@ -1,0 +1,30 @@
+li {
+    background-color: green;
+    color: rgb(255, 0, 0)
+}
+
+h1 {
+    font-size: 50px;
+    color: blueviolet;    
+    background-color: blue;
+}
+
+h4 {
+    border-style: solid;
+    border-color: white;
+    color: orange;
+}
+
+body {
+    background-image:url(https://www.hypeness.com.br/1/2019/06/J%C3%BApiter-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.moon{
+    color: yellow;
+}
+
+#europa-text{
+    color: blue;
+}
