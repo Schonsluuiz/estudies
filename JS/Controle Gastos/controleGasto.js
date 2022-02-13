@@ -1,3 +1,5 @@
+//organizacao gastos
+
 let gastos = [195, 108, 100, 150, 21, 25, 47]
 
 function saldo(gastos) {
